@@ -12,3 +12,5 @@ Now, let's make a change to the code after the recent merge. Before making any c
 Now, I make a change to the code on branch2.
 
 I have jusst created a new branch 3 off of master/main.
+
+This is a change to the code on branch3.
