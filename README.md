@@ -14,3 +14,7 @@ Now, I make a change to the code on branch2.
 This is a change to the code on branch2.
 
 Another change to the code on branch2.
+
+I have jusst created a new branch 3 off of master/main.
+
+This is a change to the code on branch3.
