@@ -8,3 +8,5 @@ branch 1/commit 2: is another commit on branch 1.
 Before making any changes to the code, you should create a branch. You should not commit to master/main. You should commit to the branch and then merge it back to master/main. This way you can keep master/main clean and stable. 
 
 Now, let's make a change to the code after the recent merge. Before making any changes, I create a new branch2 off of master/main. 
+
+Now, I make a change to the code on branch2.
