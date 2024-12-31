@@ -10,3 +10,5 @@ Before making any changes to the code, you should create a branch. You should no
 Now, let's make a change to the code after the recent merge. Before making any changes, I create a new branch2 off of master/main. 
 
 Now, I make a change to the code on branch2.
+
+This is a change to the code on branch2.
